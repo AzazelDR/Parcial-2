@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 940px;
+    height: 1096px;
+    margin-left: 17%;
+}
+
+.header {
+    background-image: url("/Parcial/img/head.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 940px;
+    height: 135px;
+}
+
+.nav {
+    background-color: #2c2c2c;
+    height: 40px;
+}
+
+.nav li {
+    right: unset;
+    padding-left: 10px;
+    padding-top: 10px;
+    float: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: white;
+    height: 40px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.clearfix2 {
+    height: 40px;
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav,
+header {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+nav {
+    background-color: #2c2c2c;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+.textinfo {
+    padding-top: 10px;
+    float: left;
+}
+
+.top {
+    background-color: rgb(54, 53, 50);
+    color: rgb(255, 255, 255);
+    width: 630px;
+    margin-right: 20px;
+    height: 247px;
+    float: left;
+    margin: 5px;
+}
+
+h3,
+h2 {
+    margin: 10px;
+}
+
+#img {
+    float: left;
+    width: 240px;
+    height: 160px;
+    margin-top: -15px;
+    background-size: cover;
+}
+
+.infotop {
+    background-color: gray;
+    width: 630px;
+    height: 200px;
+}
+
+aside {
+    float: left;
+    height: 219px;
+    width: 250px;
+    text-align: left;
+    margin-top: 25px;
+}
+
+.texttop {
+    float: left;
+    height: 190px;
+    width: 280px;
+    margin: 0px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+}
+
+.imagen {
+    float: left;
+    height: 90px;
+    width: 100px;
+    padding-top: 40px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.cont,
+.cont2 {
+    background-color: rgb(54, 53, 50);
+    color: white;
+    float: left;
+    margin: 5px;
+    height: 314px;
+    width: 310px;
+}
+
+.cont3 {
+    background-color: rgb(54, 53, 50);
+    color: white;
+    float: left;
+    margin: 5px;
+    height: 192px;
+    width: 250px;
+}
+
+.headbottom,
+.headbottom2,
+.headbottom3 {
+    margin: 5px;
+    padding-left: 30px;
+}
+
+.sect,
+.sect2 {
+    text-align: left;
+    background-color: gray;
+    height: 314px;
+    margin-bottom: 0px;
+    width: 310px;
+}
+
+.sect3 {
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    height: 192px;
+    width: 250px;
+}
+
+.h4f {
+    background-color: rgb(54, 53, 50);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+
+.h4 {
+    padding-left: 65px;
+}
+
+.l1 {
+    margin-left: 35px;
+    margin-right: 40px;
+    float: left;
+    color: rgb(255, 255, 255);
+    margin-bottom: -10px;
+}
+
+.l2-1,
+.l2 {
+    margin-bottom: -15px;
+}
+
+.l2-1 {
+    float: left;
+    margin-top: 10px;
+    margin-left: 35px;
+    color: rgb(0, 0, 0);
+}
+
+.l2 {
+    float: left;
+    margin-left: 35px;
+    color: rgb(0, 0, 0);
+}
+
+.titlesection,
+.titlesection2,
+.titlesection {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.text {
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+h3,
+h4,
+.text {
+    text-align: left;
+    padding-left: 30px;
+}
+
+.panel {
+    margin: 0;
+    width: 28%;
+    margin-top: -246px;
+    padding: 2px;
+    float: right;
+    text-align: center;
+    background-color: grey;
+    height: 561px;
+}
+
+input {
+    margin-left: 5px;
+    width: 98%;
+}
+
+footer {
+    color: black;
+    text-align: left;
+    height: 30px;
+    background-color: gray;
+}
+
+.galery {
+    width: 250px;
+    height: 250px;
+}
+
+#img2 {
+    float: left;
+    padding-top: 40px;
+    padding-left: 15px;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
